@@ -70,6 +70,7 @@ public class Inheritance_Polymorphism {
                 System.exit(0);
             break;
             
+            //Ini adalah sebuah comment untuk comit
             
             
             default:
